@@ -323,21 +323,3 @@ body {
     color: var(--accent-color);
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-    .logo {
-        font-size: 2.5rem;
-    }
-    
-    .subtitle {
-        font-size: 1.1rem;
-    }
-    
-    .header {
-        padding: 3rem 0 2rem;
-    }
-    
-    .docs-grid {
-        grid-template-columns: 1fr;
-    }
-}
